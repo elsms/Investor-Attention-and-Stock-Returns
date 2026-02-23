@@ -5,7 +5,9 @@
 
 
 # Introduction 
-This notebook investigates whether abnormal web search volumes can help predict abnormal stock returns over a period of 5 years. It was developed as an individual assignment as part of the [Programming for Finance](https://www.reading.ac.uk/modules/documents?acyear=2025%252f6&modcode=ICM406&schoolcode=HBS%20DME%20G%7CHBS%20DME%20W%7CHBS%20FIN%20G%7CHBS%20FIN%20W%7CHBS%20IBS%20G%7CHBS%20IBS%20W%7CHBS%20LBR%20G%7CHBS%20LBR%20W%7CHBS%20MGM%20W%7CHBS%20REP%20G%7CHBS%20REP%20W&_ga=2.244397701.1875545185.1771812544-1006487816.1771812544) module at [Henley Business School](https://www.henley.ac.uk/).
+This notebook investigates whether abnormal web search volumes contain predictive information about abnormal stock returns over a five-year sample period. 
+
+The project was developed as an individual assignment for the [Programming for Finance](https://www.reading.ac.uk/modules/documents?acyear=2025%252f6&modcode=ICM406&schoolcode=HBS%20DME%20G%7CHBS%20DME%20W%7CHBS%20FIN%20G%7CHBS%20FIN%20W%7CHBS%20IBS%20G%7CHBS%20IBS%20W%7CHBS%20LBR%20G%7CHBS%20LBR%20W%7CHBS%20MGM%20W%7CHBS%20REP%20G%7CHBS%20REP%20W&_ga=2.244397701.1875545185.1771812544-1006487816.1771812544) module at [Henley Business School](https://www.henley.ac.uk/).
 
 # Data 
 
